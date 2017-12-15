@@ -1,7 +1,7 @@
 The project is based on 1M real-world used car data crawled from carfax.com. These data are used to analyze the used car market of US.
-***
+___
 
-#####The project includes 3 parts:
+*** The project includes 3 parts:
 
 1. Exploratory Data Analysis:
 	
